@@ -1,6 +1,6 @@
 ## COVID-19 impact analysis
 
-Data analysis project with SQL and PowerBI. Exploration and visualization of Covid-19-related government data, supplied by ourworldindata.org
+Data analysis project with SQL and PowerBI. Exploration and visualization of Covid-19-related government data (infections, deaths, and vaccinations), supplied by ourworldindata.org
 
 ### SQL queries concerning:
 - Reported cases vs. population for specific countries and worldwide over different spans of time
