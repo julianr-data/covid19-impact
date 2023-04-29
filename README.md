@@ -13,7 +13,7 @@ Data analysis project with SQL and PowerBI. Exploration and visualization of Cov
 - Rolling count of reported vaccinations for a given country
 - Percentage of population vaccinated per country
 
-### Power BI report displaying:
+### Power BI report (PDF) displaying:
 - Infection vs. fatality timeline
 - Total worldwide fatality ratio
 - Filled map displaying the percentage of cases vs. population oper country
