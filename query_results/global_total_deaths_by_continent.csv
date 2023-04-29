@@ -1,0 +1,7 @@
+"continent","sum(cast(new_deaths as int))"
+Africa,257745
+Asia,1613509
+Europe,2030383
+North America,1574735
+Oceania,24316
+South America,1324624
