@@ -2,6 +2,8 @@
 
 Data analysis project with SQL and PowerBI. Exploration and visualization of Covid-19-related government data (infections, deaths, and vaccinations), supplied by ourworldindata.org
 
+![report](https://github.com/julianr-data/covid19-impact/blob/d0bff6203f9906ecfd88c97c52e9e4f0fa8a7353/report-hd.png)
+
 ### SQL queries concerning:
 - Reported cases vs. population for specific countries and worldwide over different spans of time
 - Fatality: reported cases vs. death
@@ -13,7 +15,7 @@ Data analysis project with SQL and PowerBI. Exploration and visualization of Cov
 - Rolling count of reported vaccinations for a given country
 - Percentage of population vaccinated per country
 
-### Power BI report (PDF) displaying:
+### Power BI report (PDF, PNG) based on SQL queries displaying:
 - Infection vs. fatality timeline
 - Total worldwide fatality ratio
 - Filled map displaying the percentage of cases vs. population oper country
